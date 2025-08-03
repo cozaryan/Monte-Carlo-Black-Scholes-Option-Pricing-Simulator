@@ -1,1 +1,27 @@
-# Monte-Carlo-Black-Scholes-Option-Pricing-Simulator
+**📈 Monte Carlo & Black-Scholes Option Pricing Simulator**
+A comprehensive Python tool for pricing European call and put options using both Monte Carlo simulations and the Black-Scholes-Merton analytical model. This project helps visualize stock price distributions at maturity using Geometric Brownian Motion (GBM) and provides an intuitive comparison between theoretical and empirical option pricing methods.
+
+🧠 **Overview**
+Option pricing is central to quantitative finance and risk management. This project simulates the movement of stock prices over time using Geometric Brownian Motion, calculates option values through:
+
+Monte Carlo methods (numerical simulations)
+
+Black-Scholes formula (closed-form solution)
+
+It also includes:
+
+A visual plot of stock price outcomes at maturity.
+
+A side-by-side numerical comparison of Monte Carlo and Black-Scholes prices.
+
+🚀 **Features**
+✅ Simulates terminal stock prices using Geometric Brownian Motion.
+
+✅ Prices European call and put options using Monte Carlo simulation.
+
+✅ Computes theoretical prices using the Black-Scholes formula.
+
+✅ Visualizes the distribution of simulated stock prices.
+
+✅ Compares Monte Carlo estimates with Black-Scholes values.
+
