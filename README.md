@@ -15,6 +15,7 @@ A visual plot of stock price outcomes at maturity.
 A side-by-side numerical comparison of Monte Carlo and Black-Scholes prices.
 
 🚀 **Features**
+
 ✅ Simulates terminal stock prices using Geometric Brownian Motion.
 
 ✅ Prices European call and put options using Monte Carlo simulation.
@@ -24,4 +25,6 @@ A side-by-side numerical comparison of Monte Carlo and Black-Scholes prices.
 ✅ Visualizes the distribution of simulated stock prices.
 
 ✅ Compares Monte Carlo estimates with Black-Scholes values.
+
+<img width="859" height="547" alt="image" src="https://github.com/user-attachments/assets/b9667f15-c606-4af1-a55f-9ca93a81dec8" />
 
