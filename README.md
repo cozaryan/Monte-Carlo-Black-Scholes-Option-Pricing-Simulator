@@ -28,13 +28,12 @@ A side-by-side numerical comparison of Monte Carlo and Black-Scholes prices.
 
 <img width="859" height="547" alt="image" src="https://github.com/user-attachments/assets/b9667f15-c606-4af1-a55f-9ca93a81dec8" />
 
-Option Pricing Comparison (100000 Simulations)
+Option Pricing Comparison (100000 Simulations) 
+-------------------------------------------------- 
+Call Option Price (Monte Carlo):  10.4106 
+Call Option Price (Black-Scholes): 10.4506 Difference (Call): 0.0399 
 --------------------------------------------------
-Call Option Price (Monte Carlo):  10.4106
-Call Option Price (Black-Scholes): 10.4506
-Difference (Call): 0.0399
---------------------------------------------------
-Put Option Price (Monte Carlo):  5.5698
-Put Option Price (Black-Scholes): 5.5735
+Put Option Price (Monte Carlo):  5.5698 
+Put Option Price (Black-Scholes): 5.5735 
 Difference (Put): 0.0038
-
+--------------------------------------------------
